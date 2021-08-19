@@ -20,7 +20,8 @@
 各顧客ごとに閲覧できる。
 
 ## 設計書
-作成中
+【テーブル定義書】
+https://docs.google.com/spreadsheets/d/1W_6iAgGPzhbiUV_8yKeTwrta5bePIKC5D_nCKmzHvHQ/edit?usp=sharing
 
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1QjwP1c-psNwQb3Gnlr5g6Yr6gkIGFQpyy3DKUroShcA/edit#gid=0
