@@ -23,6 +23,9 @@
 【テーブル定義書】
 https://docs.google.com/spreadsheets/d/1W_6iAgGPzhbiUV_8yKeTwrta5bePIKC5D_nCKmzHvHQ/edit?usp=sharing
 
+【ER図】
+https://drive.google.com/file/d/1JwzFf1s2e9KeB0X06xdURm0tb6Qx-V4t/view?usp=sharing
+
 ## チャレンジ要素一覧
 https://docs.google.com/spreadsheets/d/1QjwP1c-psNwQb3Gnlr5g6Yr6gkIGFQpyy3DKUroShcA/edit#gid=0
 
